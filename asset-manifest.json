@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shiwani2626sinha/React-to-do-list/static/css/main.bbe653aa.chunk.css",
+    "main.js": "/shiwani2626sinha/React-to-do-list/static/js/main.f7850707.chunk.js",
+    "main.js.map": "/shiwani2626sinha/React-to-do-list/static/js/main.f7850707.chunk.js.map",
+    "runtime-main.js": "/shiwani2626sinha/React-to-do-list/static/js/runtime-main.4c50f09e.js",
+    "runtime-main.js.map": "/shiwani2626sinha/React-to-do-list/static/js/runtime-main.4c50f09e.js.map",
+    "static/js/2.435f18f0.chunk.js": "/shiwani2626sinha/React-to-do-list/static/js/2.435f18f0.chunk.js",
+    "static/js/2.435f18f0.chunk.js.map": "/shiwani2626sinha/React-to-do-list/static/js/2.435f18f0.chunk.js.map",
+    "index.html": "/shiwani2626sinha/React-to-do-list/index.html",
+    "precache-manifest.a0b11021ada96b920f79f46dc305e727.js": "/shiwani2626sinha/React-to-do-list/precache-manifest.a0b11021ada96b920f79f46dc305e727.js",
+    "service-worker.js": "/shiwani2626sinha/React-to-do-list/service-worker.js",
+    "static/css/main.bbe653aa.chunk.css.map": "/shiwani2626sinha/React-to-do-list/static/css/main.bbe653aa.chunk.css.map",
+    "static/js/2.435f18f0.chunk.js.LICENSE.txt": "/shiwani2626sinha/React-to-do-list/static/js/2.435f18f0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/shiwani2626sinha/React-to-do-list/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c50f09e.js",
+    "static/js/2.435f18f0.chunk.js",
+    "static/css/main.bbe653aa.chunk.css",
+    "static/js/main.f7850707.chunk.js"
+  ]
+}
